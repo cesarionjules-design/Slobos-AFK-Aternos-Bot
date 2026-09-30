@@ -4,11 +4,7 @@
     "username": "Slobot00",
     "password": "",
     "type": "offline"
-  },
-  "server": {
-    "ip": "SMPFun-cxmI.aternos.me",
-    "port": 39974,
-    "version": "26.3",
+
     "try-creative": false
   },
   "position": {
